@@ -1,0 +1,10 @@
+<svg id="Component_1_1" data-name="Component 1 – 1" xmlns="http://www.w3.org/2000/svg" width="119.232" height="31.269" viewBox="0 0 119.232 31.269">
+  <g id="Layer_2" data-name="Layer 2" transform="translate(0 31.191) rotate(-90)">
+    <g id="Layer_1" data-name="Layer 1" transform="translate(0 0)">
+      <path id="Path_177" data-name="Path 177" d="M1.386,9.181l7.161,4.048a2.67,2.67,0,0,0,2.685-.031,2.749,2.749,0,0,0,1.334-2.363v-8.1A2.749,2.749,0,0,0,11.231.377,2.67,2.67,0,0,0,8.547.346L1.386,4.393a2.76,2.76,0,0,0,0,4.787Z" transform="translate(18.626 6.029)" fill="#7842f0"/>
+      <path id="Path_178" data-name="Path 178" d="M22.858,20.526A12.574,12.574,0,0,1,8.408,24.972,12.894,12.894,0,0,1,12.079.015,12.6,12.6,0,0,1,22.845,5.178a.573.573,0,0,1,.092.461.565.565,0,0,1-.283.372h-.007L19.09,8.035A.549.549,0,0,1,18.4,7.9a7.459,7.459,0,0,0-8.338-2.2A7.671,7.671,0,0,0,10.1,20.03a7.459,7.459,0,0,0,8.326-2.244.6.6,0,0,1,.753-.143l3.476,1.965h.007a.622.622,0,0,1,.306.413.63.63,0,0,1-.107.505Z" transform="translate(0)" fill="#7842f0"/>
+      <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="1.849" cy="1.875" rx="1.849" ry="1.875" transform="translate(10.855 11.12)" fill="#7842f0"/>
+    </g>
+  </g>
+  <text id="Orion_5" data-name="Orion 5" transform="translate(32.232 26.269)" fill="#7842f0" font-size="26" font-family="CeraPro-Medium, Cera Pro" font-weight="500" letter-spacing="-0.02em"><tspan x="0" y="0">Orion 5</tspan></text>
+</svg>
