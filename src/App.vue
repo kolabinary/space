@@ -1,26 +1,24 @@
 <template>
   <div id="app">
     <router-view></router-view>
-    <home></home>
-    <Rigel></Rigel>
-    <Join></Join>
+    <!--<home></home>-->
+    <!--<Rigel></Rigel>-->
+    <!--<Join></Join>-->
 
   </div>
 </template>
 
 <script>
 
-  import home from  './components/home.vue'
-  import Rigel from './components/Rigel.vue'
-  import Join from './components/form.vue'
+  // import home from  './components/home.vue'
+  // import Rigel from './components/Rigel.vue'
+  // import Join from './components/form.vue'
 
 
 export default {
   name: 'App',
   components: {
-          home,
-          Rigel,
-          Join
+
   }
 }
 </script>
